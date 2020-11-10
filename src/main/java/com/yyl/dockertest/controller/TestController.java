@@ -13,7 +13,7 @@ public class TestController {
 
     @PostMapping("/docker")
     public String testDocker(){
-        return "Hello,Docker";
+        return "Hello,JenKins";
     }
 
 }
